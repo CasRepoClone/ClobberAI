@@ -1,5 +1,10 @@
 # ClobberAI
-**minimax and alpha-beta pruning for AI move prediction on the board game 'Clobber'
+**minimax and alpha-beta pruning for AI move prediction on the board game 'Clobber' for module
+Artificial Intelligence and Knowledge Engineering - Wykład
+
+
+Completion by 
+29/04/25
 
 _Originally, game was designed on a 5x6 board, but more and more games are
 being played on a 10x10 board. Each player has his own color. At the beginning,
